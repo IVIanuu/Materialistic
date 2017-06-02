@@ -35,14 +35,12 @@
     <dimen name="md_status_bar_height">24dp</dimen>
     <dimen name="md_navigation_bar_height">56dp</dimen>
 
-
     <!-- Margins -->
     <dimen name="md_screen_edge_margin">16dp</dimen>
     <dimen name="md_screen_content_left_margin">72dp</dimen>
     <dimen name="md_content_margin">8dp</dimen>
 
     <dimen name="md_fab_margin">16dp</dimen>
-
 
     <!-- Elevation -->
     <dimen name="md_dialog_elevation">24dp</dimen>
