@@ -24,8 +24,6 @@
     <dimen name="md_icon_size">24dp</dimen>
     <dimen name="md_avatar_size">40dp</dimen>
     <dimen name="md_touch_target_size">48dp</dimen>
-    <dimen name="md_touch_target_icon_padding">24dp</dimen>
-    <dimen name="md_touch_target_avatar_padding">8dp</dimen>
     <dimen name="md_divider_height">1dp</dimen>
 
     <dimen name="md_list_item_height">72dp</dimen>
@@ -36,8 +34,8 @@
     <dimen name="md_navigation_bar_height">56dp</dimen>
 
     <!-- Margins -->
-    <dimen name="md_screen_edge_margin">16dp</dimen>
-    <dimen name="md_screen_content_left_margin">72dp</dimen>
+    <dimen name="md_edge_margin">16dp</dimen>
+    <dimen name="md_content_left_margin">72dp</dimen>
     <dimen name="md_content_margin">8dp</dimen>
 
     <dimen name="md_fab_margin">16dp</dimen>
